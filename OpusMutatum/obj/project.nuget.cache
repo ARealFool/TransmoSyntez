@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wMwzfhF7c/4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rene\\Desktop\\MOLEK SYNTEZ DEOBFUSCATOR\\OpusMutatum\\OpusMutatum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rene\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\Rene\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net40\\1.0.3\\microsoft.netframework.referenceassemblies.net40.1.0.3.nupkg.sha512",
+    "C:\\Users\\Rene\\.nuget\\packages\\mono.cecil\\0.11.4\\mono.cecil.0.11.4.nupkg.sha512",
+    "C:\\Users\\Rene\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
